@@ -1,3 +1,22 @@
 .definitions {
   display: none;
 }
+
+.thumbnail {
+  background-color: red;
+}
+
+.thumbnail {
+  text-align: center;
+  color: white;
+  border-color: green;
+  border-width: thick;
+}
+
+.jumbotron {
+  background-color: orange;
+}
+
+body {
+  background-color: black;
+}
