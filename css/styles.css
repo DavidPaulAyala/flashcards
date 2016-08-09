@@ -1,0 +1,22 @@
+#walrus-showing {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+.dark-background {
+background-color: black;
+}
+
+.border-highlight {
+  box-sizing: border-box;
+  border: 2px solid green;
+  background-color: yellow;
+}
